@@ -1,0 +1,8 @@
+Book_id,Title,Author,Category,Quantity,Unit_price,Total_price
+1,Anna Karenina,Leo Tolstoy,Classics,3,12.99,38.97
+2,OS,Adham,Educational,70,10,700
+3,Ai in a minute,Amr,Educational,10,10,100
+4,quick math,Ali,Educational,10,60,600
+5,black holes,Neil tyson,Comedy,6,8,48
+6,Linux,linus,Techincal,15,15,225
+7,friends,fredrick,comdey,10,20.0,200.0
